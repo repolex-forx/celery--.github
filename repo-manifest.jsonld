@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/.github/commit/19fb6c904178e10c4e592566811900ddf193746e",
       "git:hexsha": "19fb6c904178e10c4e592566811900ddf193746e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
