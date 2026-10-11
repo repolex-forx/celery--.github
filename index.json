@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "19fb6c904178e10c4e592566811900ddf193746e",
+      "tag": "",
+      "parsed_at": "2026-10-11T20:29:25.813164+00:00"
+    }
+  ]
+}
